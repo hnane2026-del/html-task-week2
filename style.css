@@ -1,0 +1,71 @@
+/* Page style */
+body {
+    background-color:antiquewhite;
+    font-family: Arial;
+    margin: 20px;
+    
+}
+
+/* Main title */
+h1 {
+    color: #971717;
+    text-align: center;
+    border-bottom: 5px solid rgba(205, 134, 63, 0.811);
+    width:50%;
+    margin: auto;
+    
+}
+
+/* Section titles */
+h2 {
+    color: #971717;
+    margin-top: 20px;
+}
+
+/* Paragraph */
+p {
+    color: rgb(112, 72, 72);
+    font-size: 14px;
+}
+
+/* Services list */
+ul {
+    background-color: rgba(243, 235, 242, 0.76);
+    padding: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Table */
+table {
+    background-color: rgb(225, 164, 90);
+    margin-top: 10px;
+    
+}
+
+th {
+    background-color:rgb(225, 164, 90);
+    padding: 5px;
+}
+
+td {
+    padding: 5px;
+    text-align: center;
+    
+}
+
+/* Links */
+a {
+    color: rgb(184, 96, 13);
+}
+
+a:hover {
+    color: rgb(29, 83, 220);
+}
+
+/* Footer */
+hr {
+    margin-top: 30px;
+}
